@@ -653,7 +653,9 @@
 8 MAART VROUWENDAG
 8 MAI 1945
 8 MAI 2022
+8 MAI FERIE EN BELGIQUE
 8 MAI FÉRIÉ
+8 MAI FÉRIÉ EN BELGIQUE
 8 MARS
 8 MARS 2022
 8 MARS 2023
@@ -667,7 +669,9 @@
 8 maart vrouwendag
 8 mai 1945
 8 mai 2022
+8 mai ferie en belgique
 8 mai férié
+8 mai férié en belgique
 8 mars
 8 mars 2022
 8 mars 2023
@@ -696,7 +700,9 @@
 8maartVrouwendag
 8mai1945
 8mai2022
+8maiferieenbelgique
 8maiférié
+8maifériéenbelgique
 8mars
 8mars2022
 8mars2023
@@ -7854,6 +7860,8 @@ BACTÉRIE E.COLI
 BAD BONN KILBI
 BAD BOYS 4
 BAD BUNNY
+BAD BUNNY CONCERT BELGIQUE
+BAD BUNNY MADRID
 BAD FRIEDRICHSHALL
 BAD MOMS
 BAD SÄCKINGEN
@@ -9843,6 +9851,7 @@ BSW
 BTC
 BTS
 BU YUNCHAOKETE
+BUB WETTINGEN VERMISST
 BUBBLE TEA
 BUBLIK
 BUCAREST
@@ -13810,6 +13819,7 @@ CASELLATI
 CASEMIRO
 CASETIFY
 CASETiFY
+CASEY MEANS
 CASH
 CASH INVESTIGATION
 CASH TRUCK
@@ -27151,6 +27161,7 @@ FIASCO
 FIAT TOPOLINO
 FIBROMYALGIE
 FIDGET SPINNER
+FIDJI SIMO
 FIDJI-GÉORGIE
 FIEN GERMIJNS
 FIESTA LATINA
@@ -36460,6 +36471,7 @@ IPHONE BLACK FRIDAY
 IPHONE SE
 IPHONE SE 2022
 IPOD
+IPPODROMO SNAI LA MAURA
 IPSWICH TOWN
 IPSWICH TOWN – ARSENAL
 IPSWICH TOWN – LIVERPOOL
@@ -39016,6 +39028,7 @@ JOYN
 JOfoot
 JOhiver2030
 JOmedailles
+JOÃO FONSECA
 JOËL LE SCOUARNEC
 JOŠKO GVARDIOL
 JPL
@@ -50742,6 +50755,8 @@ MASCARADE
 MASCOTTE JO 2024
 MASCOTTE JO PARIS 2024
 MASCOTTE PARIS 2024
+MASCOTTE ZURICH
+MASCOTTE ZÜRICH
 MASERATI
 MASERATI GRECALE
 MASK SINGER
@@ -66421,6 +66436,8 @@ RAPPEL CONSO
 RAPPEL GRAND FRAIS
 RAPPEL LAIT
 RAPPEL LARDONS LISTERIA
+RAPPEL MEDICAMENTS HYPERTENSION
+RAPPEL MÉDICAMENTS HYPERTENSION
 RAPPEL OEUFS
 RAPPEL PRODUIT
 RAPPEL SAUMON
@@ -89207,6 +89224,7 @@ anneliesverlinden
 annemasse
 annemiek van vleuten
 anneroumanoff
+anneruwet
 annesinclair
 annette
 annette fetscherin
@@ -90353,10 +90371,15 @@ bactérie e.coli
 bad bonn kilbi
 bad boys 4
 bad bunny
+bad bunny concert belgique
+bad bunny madrid
 bad friedrichshall
 bad moms
 bad säckingen
 bad zurzach
+badbunny
+badbunnyconcertbelgique
+badbunnymadrid
 baden
 baden-baden
 baden-württemberg
@@ -92396,8 +92419,10 @@ bsw
 btc
 bts
 bu yunchaokete
+bub wettingen vermisst
 bubble tea
 bublik
+bubwettingenvermisst
 bucarest
 buchard
 buche de noel
@@ -92957,6 +92982,8 @@ casauitverkoop
 casellati
 casemiro
 casetify
+casey means
+caseymeans
 cash
 cash investigation
 cash truck
@@ -98246,7 +98273,9 @@ fiasco
 fiat topolino
 fibromyalgie
 fidget spinner
+fidji simo
 fidji-géorgie
+fidjisimo
 fien germijns
 fiesta latina
 fietsen door de heide
@@ -101620,6 +101649,7 @@ ierland.  belgië
 iftar
 iga swiatek
 iga świątek
+igaswiatek
 igaświątek
 iggy azalea
 iggy pop
@@ -102109,6 +102139,8 @@ iphone black friday
 iphone se
 iphone se 2022
 ipod
+ippodromo snai la maura
+ippodromosnailamaura
 ipswich town
 ipswich town – arsenal
 ipswich town – liverpool
@@ -103479,6 +103511,8 @@ joyeux noel image
 joyeux noël
 joyeux noël 2023
 joyn
+joão fonseca
+joãofonseca
 joël le scouarnec
 joško gvardiol
 jpl
@@ -104458,6 +104492,7 @@ kongsberg
 koning boudewijnstadion
 koning filip
 koning filip rode duivels
+koningboudewijnstadion
 koningfilip
 koningin elisabethwedstrijd
 koningsdag
@@ -108059,6 +108094,10 @@ mascarade
 mascotte jo 2024
 mascotte jo paris 2024
 mascotte paris 2024
+mascotte zurich
+mascotte zürich
+mascottezurich
+mascottezürich
 maserati
 maserati grecale
 mask singer
@@ -109215,6 +109254,7 @@ mission impossible 8
 mission pays basque
 mission: impossible
 mission: impossible fallout
+missionimpossible
 mississippi
 mister cover
 mister france 2023
@@ -113534,6 +113574,7 @@ ramonzenhäusern
 rampage
 ramsay-hunt-syndrom
 ramzan kadyrov
+ramzankadyrov
 ramzy bedia
 ran nfl
 randal kolo muani
@@ -113578,6 +113619,8 @@ rappel conso
 rappel grand frais
 rappel lait
 rappel lardons listeria
+rappel medicaments hypertension
+rappel médicaments hypertension
 rappel oeufs
 rappel produit
 rappel saumon
@@ -113585,6 +113628,8 @@ rappel saumon fumé listeria
 rappelcanettecocacola
 rappelconso
 rappelgrandfrais
+rappelmedicamentshypertension
+rappelmédicamentshypertension
 rappelproduit
 rapper coolio
 rapper diddy
@@ -116877,6 +116922,7 @@ stadefrançais–larochelle
 stadelhofen
 stadelhofen bahnhof
 staderennes
+staderoibaudouin
 stadia
 stadler rail
 stadler rail aktie

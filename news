@@ -442,6 +442,7 @@
 24H DU MANS
 24H DU MANS 2023
 24H DU MANS 2024
+24H DU MANS 2025
 24H DU MANS DIRECT
 24H DU MANS MOTO 2022
 24H NURBURGRING 2023
@@ -479,6 +480,7 @@
 24h du mans
 24h du mans 2023
 24h du mans 2024
+24h du mans 2025
 24h du mans direct
 24h du mans moto 2022
 24h nurburgring 2023
@@ -493,6 +495,7 @@
 24hduMans2023
 24hduMansdirect
 24hduMansmoto2022
+24hdumans2025
 24heuresdumans2025
 24urenloopLeuven
 24uurlive
@@ -804,6 +807,8 @@ AANSLAG ISTANBUL
 AANSLAG KERSTMARKT DUITSLAND
 AANSLAG MOSKOU
 AANSLAGEN ZAVENTEM
+AANVAL ISRAEL IRAN
+AANVAL ISRAËL IRAN
 AARAU
 AARDBEVING
 AARDBEVING BANGKOK
@@ -9167,6 +9172,7 @@ BLESSURE EDEN HAZARD
 BLESSUREDEBRUYNE
 BLESSUREEDENHAZARD
 BLESSY
+BLICK NEWS
 BLIND GEKOCHT
 BLIND GESPRONGEN
 BLIND GETROUWD
@@ -9559,6 +9565,7 @@ BRAITHWAITE
 BRAKEL
 BRAM SPOOREN
 BRAM VAN OUTRYVE
+BRAND ADLISWIL
 BRAND ALTSTETTEN
 BRAND ARENDONK
 BRAND BISCHOFSZELL
@@ -15048,6 +15055,7 @@ CLUB BRUGGEANTWERP
 CLUB DEPORTIVA MINERA – REAL MADRID
 CLUB NXT
 CLUB NXT,  EUPEN
+CLUB WORLD CUP
 CLUBBRUGGE
 CLUBBRUGGE-ANTWERP
 CLUBBRUGGEKORTRIJK
@@ -15598,6 +15606,7 @@ CRISTINA KIRCHNER
 CRIT'AIR
 CRITERIUM DAUPHINE
 CRITERIUM DAUPHINE 2023
+CRITERIUM DAUPHINE 2025 ETAPE 5
 CRITERIUM JURASSIEN
 CRITERIUM JURASSIEN 2022
 CRITICAL MASS
@@ -30853,6 +30862,7 @@ GABRIELLE LAZURE
 GABRY PONTE
 GABY KÖSTER
 GAD ELMALEH
+GAEA SCHOETERS
 GAEL MONFILS
 GAEL PERDRIAU
 GAELLE GARCIA DIAZ
@@ -34323,6 +34333,7 @@ HAGEL SCHWEIZ
 HAGELKÖRNER IN SPANIEN
 HAGELSCHWEIZ
 HAGRID TOT
+HAI ANGRIFF
 HAI ANGRIFFE ÄGYPTEN
 HAILEE STEINFELD
 HAILEY BAPTISTE
@@ -34536,6 +34547,7 @@ HAYLEY HASSELHOFF
 HAZARD
 HAZEL BRUGGER
 HAZY OSTERWALD
+HBC NANTES
 HBO MAX
 HBO MAX BELGIE
 HBO Max
@@ -42219,6 +42231,8 @@ KANSAS
 KANSAS CITY
 KANSAS CITY CHIEFS
 KANTE
+KANTON GRAUBUNDEN BAR
+KANTON GRAUBÜNDEN BÄR
 KANTON SCHWYZ
 KANTON ST.GALLEN CORONA
 KANTONSRATSWAHLEN ST.GALLEN
@@ -45055,6 +45069,7 @@ LE MANS 2021
 LE MANS 2022
 LE MANS 2023
 LE MANS 2024
+LE MANS 2025
 LE MANS 66
 LE MANS FC
 LE MANS LIVE
@@ -51194,6 +51209,7 @@ MASTERS GOLF 2025
 MASTERS OF MADNESS
 MASTERS OF THE AIR
 MASTODON
+MASTOUR
 MASVIDAL
 MATCH
 MATCH BELGIQUE
@@ -51714,6 +51730,7 @@ METEO LUGANO
 METEO MARSEILLE
 METEO MONTPELLIER
 METEO NIMES
+METEO ORAGES
 METEO PARIS
 METEO RENNES
 METEO REUNION CYCLONE FREDDY
@@ -60530,6 +60547,7 @@ ONTPLOFFING HOBOKEN
 ONU
 ONU ETATS UNIS RUSSIE
 ONWEER
+ONWEER NOORD FRANKRIJK
 ONWEERSBUIEN LIMBURG
 ONYEDIKA
 ONYX STORM
@@ -66793,6 +66811,7 @@ RAGNHILD MOWINCKEL
 RAHEEM STERLING
 RAHEEMSTERLING
 RAHEL BLOCHER
+RAHEL FREY
 RAHIM REDCAR
 RAID DINGUE
 RAIFFEISEN
@@ -70915,6 +70934,7 @@ SAINT ELOI
 SAINT ETIENNE
 SAINT ETIENNE FOOT
 SAINT JEAN
+SAINT JEAN DE MAURIENNE
 SAINT JEAN LE BLANC
 SAINT JOSEPH
 SAINT LARY SOULAN
@@ -73016,6 +73036,7 @@ STRASBOURG – PARIS-SG
 STRASBOURG – REIMS
 STRASBOURG – RENNES
 STRASBOURG – SAINT-ÉTIENNE
+STRASSE VON HORMUS
 STRASSENVERKEHRSAMT ZÜRICH
 STRAUBING TIGERS
 STRAUMANN-AKTIE
@@ -79094,6 +79115,7 @@ TROMPERIE
 TRONDHEIM
 TROOPING THE COLOUR
 TROOPING THE COLOUR 2024
+TROOPING THE COLOUR 2025
 TROPACK
 TROPENHAUS FRUTIGEN
 TROPHÉE DES CHAMPIONS
@@ -87440,6 +87462,7 @@ ZAVENTEM AIRPORT
 ZAZ
 ZAZIE
 ZAZOU YOUCEF
+ZB DIE ZENTRALBAHN
 ZDF
 ZDF GUNDULA GAUSE
 ZDF Gundula Gause
@@ -88174,6 +88197,10 @@ aanslag istanbul
 aanslag kerstmarkt duitsland
 aanslag moskou
 aanslagen zaventem
+aanval israel iran
+aanval israël iran
+aanvalisraeliran
+aanvalisraëliran
 aarau
 aardbeving
 aardbeving bangkok
@@ -92396,6 +92423,8 @@ blessure eden hazard
 blessuredebruyne
 blessureedenhazard
 blessy
+blick news
+blicknews
 blind gekocht
 blind gesprongen
 blind getrouwd
@@ -92796,6 +92825,7 @@ brakel
 bram spooren
 bram van outryve
 bramspooren
+brand adliswil
 brand altstetten
 brand arendonk
 brand bischofszell
@@ -92836,6 +92866,7 @@ brand wattwil
 brand weinfelden
 brand wiler bei utzenstorf
 brand wolfenschiessen
+brandadliswil
 brandenburg
 brandforstlangenbuhl
 brandforstlängenbühl
@@ -94994,6 +95025,7 @@ club brugge.  genk
 club deportiva minera – real madrid
 club nxt
 club nxt,  eupen
+club world cup
 clubafricain–egsgafsa
 clubafricain–olympiquebéja
 clubafricain–ustataouine
@@ -95004,6 +95036,7 @@ clubbruggeastonvilla
 clubbruggekortrijk
 clubbruggezulte-waregem
 clubbruggezultewaregem
+clubworldcup
 clueso
 cluny
 clémence botino miss monde
@@ -95584,9 +95617,11 @@ cristina kirchner
 crit'air
 criterium dauphine
 criterium dauphine 2023
+criterium dauphine 2025 etape 5
 criterium jurassien
 criterium jurassien 2022
 criteriumdauphine
+criteriumdauphine2025etape5
 critical mass
 criticalmass
 cro
@@ -97408,6 +97443,7 @@ eddy merckx
 eddy mitchell
 eddy snelders
 eddy wauters
+eddymerckx
 eddysnelders
 ede
 edegem
@@ -100494,6 +100530,8 @@ gabryponte
 gaby köster
 gad elmaleh
 gadelmaleh
+gaea schoeters
+gaeaschoeters
 gael monfils
 gael perdriau
 gaelle garcia diaz
@@ -101908,7 +101946,9 @@ hagel schweiz
 hagelkörner in spanien
 hagelschweiz
 hagrid tot
+hai angriff
 hai angriffe ägypten
+haiangriff
 hailee steinfeld
 hailey baptiste
 hailey bieber
@@ -102141,6 +102181,8 @@ hayley hasselhoff
 hazard
 hazel brugger
 hazy osterwald
+hbc nantes
+hbcnantes
 hbo max
 hbo max belgie
 hc ajoie
@@ -105219,8 +105261,12 @@ kansas
 kansas city
 kansas city chiefs
 kante
+kanton graubunden bar
+kanton graubünden bär
 kanton schwyz
 kanton st.gallen corona
+kantongraubundenbar
+kantongraubündenbär
 kantonsratswahlen st.gallen
 kanun
 kanye west
@@ -106731,6 +106777,7 @@ le mans 2021
 le mans 2022
 le mans 2023
 le mans 2024
+le mans 2025
 le mans 66
 le mans fc
 le mans live
@@ -106957,6 +107004,7 @@ leko
 lelandais
 lelouvre
 lemanbleu
+lemans2025
 lematin
 lemberg
 lemon bottle
@@ -109562,6 +109610,7 @@ masters of madness
 masters of the air
 mastersgolf2025
 mastodon
+mastour
 masvidal
 match
 match belgique
@@ -110113,6 +110162,7 @@ meteo lugano
 meteo marseille
 meteo montpellier
 meteo nimes
+meteo orages
 meteo paris
 meteo rennes
 meteo reunion cyclone freddy
@@ -110124,6 +110174,7 @@ meteo vigilance neige-verglas
 meteo waterloo
 meteo zurich
 meteomarseille
+meteoorages
 meteoparis
 meteorite brest
 meteorolandgarros
@@ -111218,6 +111269,7 @@ météo orages belgique
 météo ouragan danielle
 météo vigilance orange orages
 météo-france
+météoorages
 météorites strasbourg
 mölltaler
 mönchengladbach gegen bayern
@@ -112715,6 +112767,8 @@ onu
 onu etats unis russie
 onuetatsunisrussie
 onweer
+onweer noord frankrijk
+onweernoordfrankrijk
 onweersbuien limburg
 onweersbuienlimburg
 onyedika
@@ -113927,6 +113981,7 @@ philippe tesson
 philippe torreton
 philippe warrin
 philippedebelgique
+philippeetchebest
 philippefaucon
 philippelabro
 philippetabarot
@@ -115091,6 +115146,8 @@ ragnhild mowinckel
 raheem sterling
 raheemsterling
 rahel blocher
+rahel frey
+rahelfrey
 rahim redcar
 raid dingue
 raiffeisen
@@ -115205,6 +115262,7 @@ raphael haaser
 raphael liegeois
 raphael quenard
 raphael wicky
+raphaelquenard
 raphaël glucksmann
 raphaël glucksmann jordan bardella
 raphinha
@@ -116731,6 +116789,7 @@ saint eloi
 saint etienne
 saint etienne foot
 saint jean
+saint jean de maurienne
 saint jean le blanc
 saint joseph
 saint lary soulan
@@ -116821,6 +116880,7 @@ sainte-barbe
 sainte-catherine
 sainte-soline
 saintjean
+saintjeandemaurienne
 saintlarysoulan
 saintlaurentduvar
 saintmalo
@@ -118914,7 +118974,9 @@ strasbourg – paris-sg
 strasbourg – reims
 strasbourg – rennes
 strasbourg – saint-étienne
+strasse von hormus
 strassenverkehrsamt zürich
+strassevonhormus
 straubing tigers
 straumann-aktie
 strauss
@@ -119567,6 +119629,7 @@ tatjana maria
 tatjana patitz
 tatjana patiz
 tatjana simic
+tatjanamaria
 tatort dortmund
 tatort gier und angst
 tatort heute
@@ -120921,6 +120984,8 @@ tromperie
 trondheim
 trooping the colour
 trooping the colour 2024
+trooping the colour 2025
+troopingthecolour2025
 tropack
 tropenhaus frutigen
 trophée des champions
@@ -123505,6 +123570,8 @@ zaventem airport
 zaz
 zazie
 zazou youcef
+zb die zentralbahn
+zbdiezentralbahn
 zdf
 zdf gundula gause
 zdf traumschiff schweden

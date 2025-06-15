@@ -504,6 +504,9 @@
 3COUNTBOUT
 3CountBout
 3D
+3D PUZZLE   Steampunk City
+3D PUZZLE - STEAMPUNK CITY
+3D PUZZLE - Steampunk City
 3D PUZZLE DARK FANTASY
 3D PUZZLE Dark Fantasy
 3D PUZZLE MAKER
@@ -520,6 +523,7 @@
 3DGRAFIX
 3DGrafix
 3DO
+3DPUZZLE-SteampunkCity
 3DPUZZLEDarkFantasy
 3DPuzzleMaker
 3DREALMS
@@ -544,6 +548,7 @@
 3arc unlock
 3countbout
 3d
+3d puzzle - steampunk city
 3d puzzle dark fantasy
 3d puzzle maker
 3d realms
@@ -801,11 +806,13 @@
 ??? GU ZHEN REN  Reverend Insanity
 ??? Wild Web
 ??? | Phantom Reckoning
+???----?????
 ????
 ???? - ????
 ???? - ?????
 ???? ???
 ???? Ipet
+???? Mobile era
 ???? Roaming Backrooms
 ???? ~?????!~
 ????(Book Shooter) Demo
@@ -827,6 +834,7 @@
 ???????
 ????????! Momo's Revitalization Project!
 ????????? Demo
+????????? Fishing Girl's Fantasy Demo
 ????????? ~succubus quest~
 ??????????
 ???????????
@@ -846,6 +854,7 @@ A Eddy Goldfarb and
 A Eddy Goldfarb and Associates
 A GAME ABOUT BUILDING A TOWER
 A Game About Building A Tower
+A JOURNEY THROUGH SHADOW, TO REACH THE LIGHT.
 A LINK TO PAST
 A LINK TO THE PAST
 A NIGHT FILLED WITH THE SOUND OF RAIN
@@ -856,6 +865,7 @@ A WEBBING JOURNEY
 A WEEKEND TRIP
 A Webbing Journey
 A Weekend Trip
+A journey through shadow, to Reach the light.
 A&B
 A&B SOFT
 A&B Soft
@@ -3102,6 +3112,7 @@ AisystemTokyo
 Aiwa
 Aizawa
 Ajantis
+Ajourneythroughshadow,toReachthelight.
 Akai
 Akai Katana
 AkaiKatana
@@ -4586,6 +4597,7 @@ BALL
 BALL SCOOPING FRIENDS
 BALLAD
 BALLISTIC
+BALLOON PARTY
 BALLOON TO THE MOON 2
 BALLOURSON
 BALLY
@@ -5916,6 +5928,7 @@ BORJE
 BORJE LE CHASSEUR DE SOLEIL
 BORJELECHASSEURDESOLEIL
 BORN TO BREED
+BORROWED THYME
 BORTA
 BOSKONOVITCH
 BOSPHORAMUS
@@ -6573,7 +6586,9 @@ Ball Scooping Friends
 BallScoopingFriends
 Ballad
 Ballistic
+Balloon Party
 Balloon to the Moon 2
+BalloonParty
 BalloontotheMoon2
 Ballourson
 Bally
@@ -7848,6 +7863,8 @@ Borje le chasseur de soleil
 Borjelechasseurdesoleil
 Born to Breed
 BorntoBreed
+Borrowed Thyme
+BorrowedThyme
 Borta
 Boskonovitch
 Bosphoramus
@@ -10468,6 +10485,7 @@ CTXM
 CUBE
 CUBE ESCAPE
 CUBE JUMP GAME
+CUBE SLAYER
 CUBE-FIELD+
 CUBEESCAPE
 CUBIC ODYSSEY
@@ -12535,9 +12553,11 @@ Cube
 Cube Escape
 Cube Field+
 Cube Jump Game
+Cube Slayer
 Cube-Field+
 CubeEscape
 CubeJumpGame
+CubeSlayer
 Cubic Odyssey
 CubicOdyssey
 Cubot
@@ -13569,6 +13589,7 @@ DIANE
 DIANE MCCLINTOCK
 DIANEMCCLINTOCK
 DICE
+DICE BATTLES MAGNUM OPUS
 DICER
 DICEWORK
 DICEWORK GAMES
@@ -13915,6 +13936,7 @@ DOMARK
 DOME
 DOMESTIQUE
 DOMINATED BY SADISTIC RICH TRIO
+DOMINATED BY: THE SADISTIC NERD NEXT DOOR
 DOMINIONS
 DON
 DON BLUTH
@@ -15210,6 +15232,8 @@ Diane
 Diane McClintock
 DianeMcClintock
 Dice
+Dice Battles Magnum Opus
+DiceBattlesMagnumOpus
 Dicer
 Dicework
 Dicework Games
@@ -15546,6 +15570,8 @@ DomainePublic
 Domark
 Dome
 Dominated by Sadistic Rich Trio
+Dominated by: The Sadistic Nerd Next Door
+Dominatedby:TheSadisticNerdNextDoor
 DominatedbySadisticRichTrio
 Dominions
 Don
@@ -16589,6 +16615,7 @@ ELEVEN
 ELF
 ELF WORLD ADVENTURE 6
 ELF WORLD ADVENTURE 7
+ELF WORLD ADVENTURE 8
 ELFE
 ELFE NOIR
 ELFENOIR
@@ -16952,6 +16979,7 @@ ESCAPE FROM BUTCHER BAY
 ESCAPE FROM TUNG TUNG SAHUR
 ESCAPE PROTOCOL: HOSPITAL
 ESCAPE TO THE ITALIAN BRAINROT
+ESCAPE Z
 ESCAPEFROMBUTCHERBAY
 ESCARGOON
 ESCARGOON ESCARGOON
@@ -17553,8 +17581,10 @@ Eleven
 Elf
 Elf World Adventure 6
 Elf World Adventure 7
+Elf World Adventure 8
 ElfWorldAdventure6
 ElfWorldAdventure7
+ElfWorldAdventure8
 Elfe
 Elfe Noir
 ElfeNoir
@@ -17903,10 +17933,12 @@ EscalationStudios
 Escape
 Escape From Tung Tung Sahur
 Escape Protocol: Hospital
+Escape Z
 Escape from Butcher Bay
 Escape to the Italian brainrot
 EscapeFromTungTungSahur
 EscapeProtocol:Hospital
+EscapeZ
 EscapefromButcherBay
 EscapetotheItalianbrainrot
 Escargoon
@@ -19065,6 +19097,7 @@ FREE FALL ASSOCIATES
 FREE FALL GAMES
 FREE RADICAL
 FREE RADICAL SOFTWARE
+FREE STRATEGY CHESS GAME
 FREE WEEKEND
 FREEDOM
 FREEDOM FIGHTERS
@@ -20239,12 +20272,14 @@ Free Fall Associates
 Free Fall Games
 Free Radical
 Free Radical Software
+Free Strategy Chess Game
 Free Weekend
 FreeFall
 FreeFallAssociates
 FreeFallGames
 FreeRadical
 FreeRadicalSoftware
+FreeStrategyChessGame
 FreeStyle
 FreeStyle Games
 FreeStyleGames
@@ -23789,6 +23824,7 @@ HENTAI SENPAI: KAIRAKU NO MAID SERVICE ORIGINAL SOUNDTRACK
 HENTAI STORE
 HENTAI TALES: ACADEMY'S RECORD
 HENTAI TALES: FALLEN BRAVE SQUAD
+HENTAI WORLD BUNNY
 HEPHASTO
 HER
 HER INTERACTIVE
@@ -24751,6 +24787,7 @@ Hentai Store
 Hentai Tales: Academy s Record
 Hentai Tales: Academy's Record
 Hentai Tales: Fallen Brave Squad
+Hentai World Bunny
 HentaiBoxingMaggie
 HentaiClicker:Cathyisstreaming
 HentaiFurryBunny
@@ -24764,6 +24801,7 @@ HentaiSenpai:KairakunoMaidServiceOriginalSoundtrack
 HentaiStore
 HentaiTales:Academy'sRecord
 HentaiTales:FallenBraveSquad
+HentaiWorldBunny
 Hephasto
 Her
 Her Interactive
@@ -32888,6 +32926,7 @@ MAGIC,
 MAGICAL
 MAGICAL ADVERTENCE
 MAGICAL ANGEL FAIRY PRINCESS
+MAGICAL ANIMAL FARM
 MAGICAL CHASE
 MAGICAL COMPANY
 MAGICAL DROP
@@ -33766,6 +33805,7 @@ MEMOLOGY:ESCAPEOFMEMES
 MEMOREMOVERS
 MEMORIAPOLIS
 MEMORIES
+MEMORY OF LUST
 MEN
 MEN OF
 MEN OF WAR
@@ -35237,6 +35277,7 @@ MagicPocket
 MagicTypo
 MagicWand
 Magical
+Magical Animal Farm
 Magical Chase
 Magical Company
 Magical Drop
@@ -35244,6 +35285,7 @@ Magical Drop 3
 Magical Nut Ikuno
 Magical Runes
 Magical advertence
+MagicalAnimalFarm
 MagicalChase
 MagicalCompany
 MagicalDrop
@@ -36085,6 +36127,8 @@ Meme Survivors: Backrooms
 MemeSurvivors:Backrooms
 MemoRemovers
 Memories
+Memory of Lust
+MemoryofLust
 Men
 Men of
 Men of War
@@ -37643,6 +37687,9 @@ NEBULA
 NEBULA SOFT
 NEBULANTULA
 NEBULASOFT
+NEBULOUS: FLEET COMMAND
+NEBULOUS: Fleet Command
+NEBULOUS:FleetCommand
 NEC
 NEC AVENUE
 NEC Avenue
@@ -45315,6 +45362,7 @@ RED ENTERTAINMENT CORPORATION
 RED FACTION
 RED FLY
 RED FLY STUDIO
+RED LIGHT
 RED MILE
 RED MILE ENTERTAINMENT
 RED ORB
@@ -46568,6 +46616,7 @@ Red Entertainment Corporation
 Red Faction
 Red Fly
 Red Fly Studio
+Red Light
 Red Mile
 Red Mile Entertainment
 Red Orb
@@ -46594,6 +46643,7 @@ RedEntertainmentCorporation
 RedFaction
 RedFly
 RedFlyStudio
+RedLight
 RedLynx
 RedMile
 RedMileEntertainment
@@ -48218,6 +48268,7 @@ SETZERGABBIANI
 SEX ADVENTURES - INCEST FAMILY - EPISODE 8
 SEX ADVENTURES - INCEST FAMILY - EPISODE 9
 SEX ADVENTURES - NAUGHTY SISTERS - EPISODE 9
+SEX DORM🔞
 SEXY GLASSES
 SEXYGLASSES
 SEYMOUR
@@ -48277,6 +48328,7 @@ SHADOWSOFTWARE
 SHADOWTHEHEDGEHOG
 SHADOWTOR
 SHADOWTORSTUDIOS
+SHADOWVERSE: WORLDS BEYOND
 SHADOWWARRIOR
 SHAHEEN
 SHAHRA
@@ -48860,6 +48912,7 @@ SLANT SIX
 SLANT SIX GAMES
 SLANTSIX
 SLANTSIXGAMES
+SLAPSTICK BOSSES
 SLATE
 SLAVANIA — THE POWER OF DRUM
 SLAY
@@ -51164,9 +51217,12 @@ Sex Adventures   Naughty Sisters   Episode 9
 Sex Adventures - Incest Family - Episode 8
 Sex Adventures - Incest Family - Episode 9
 Sex Adventures - Naughty Sisters - Episode 9
+Sex Dorm?
+Sex Dorm🔞
 SexAdventures-IncestFamily-Episode8
 SexAdventures-IncestFamily-Episode9
 SexAdventures-NaughtySisters-Episode9
+SexDorm🔞
 Seymour
 Shaba
 Shaba Games
@@ -51205,6 +51261,8 @@ Shadowsoft
 Shadowsoft Inc
 ShadowsoftInc
 ShadowtheHedgehog
+Shadowverse: Worlds Beyond
+Shadowverse:WorldsBeyond
 Shaheen
 Shahra
 Shale Hill Secrets
@@ -51796,6 +51854,8 @@ Slant Six
 Slant Six Games
 SlantSix
 SlantSixGames
+Slapstick Bosses
+SlapstickBosses
 Slate
 Slavania -- The Power of Drum
 Slavania — The Power of Drum
@@ -53426,6 +53486,7 @@ TACHIBANA
 TACHIKAWA
 TACTAC
 TACTICAL
+TACTICAL BATTLES
 TACTICAL DESIGN
 TACTICAL DESIGN GROUP
 TACTICAL WARFARE
@@ -54146,6 +54207,7 @@ THE LAST TRAIN: Baquedano
 THE LAST VISIT: 98TH
 THE LEARNING
 THE LEARNING COMPANY
+THE LEGEND OF BUBBLE BOY
 THE LEGEND OF ZELDA
 THE LEGEND OF ZELDA A LINK TO THE PAST
 THE LEGEND OF ZELDA BREATH OF THE WILD
@@ -55536,9 +55598,11 @@ TacTac
 Tachibana
 Tachikawa
 Tactical
+Tactical Battles
 Tactical Design
 Tactical Design Group
 Tactical Warfare
+TacticalBattles
 TacticalDesign
 TacticalDesignGroup
 TacticalWarfare
@@ -56239,6 +56303,7 @@ The Last Reunion
 The Last Visit: 98th
 The Learning
 The Learning Company
+The Legend of Bubble Boy
 The Legend of Zelda
 The Life and Suffering of Sir Brante
 The Lightning Struck Orphan
@@ -56445,6 +56510,7 @@ TheLastReunion
 TheLastVisit:98th
 TheLearning
 TheLearningCompany
+TheLegendofBubbleBoy
 TheLegendofZelda
 TheLifeandSufferingofSirBrante
 TheLightningStruckOrphan
@@ -61790,6 +61856,7 @@ a eddy goldfarb
 a eddy goldfarb and
 a eddy goldfarb and associates
 a game about building a tower
+a journey through shadow, to reach the light.
 a link to past
 a link to the past
 a night filled with the sound of rain
@@ -63745,6 +63812,7 @@ ball
 ball scooping friends
 ballad
 ballistic
+balloon party
 balloon to the moon 2
 ballourson
 bally
@@ -65061,6 +65129,7 @@ borje
 borje le chasseur de soleil
 borjelechasseurdesoleil
 born to breed
+borrowed thyme
 borta
 boskonovitch
 bosphoramus
@@ -67642,6 +67711,7 @@ ctxm
 cube
 cube escape
 cube jump game
+cube slayer
 cube-field+
 cubeescape
 cubic odyssey
@@ -68644,6 +68714,7 @@ diane
 diane mcclintock
 dianemcclintock
 dice
+dice battles magnum opus
 dicer
 dicework
 dicework games
@@ -68984,6 +69055,7 @@ domark
 dome
 domestique
 dominated by sadistic rich trio
+dominated by: the sadistic nerd next door
 dominions
 don
 don bluth
@@ -69985,6 +70057,7 @@ eleven
 elf
 elf world adventure 6
 elf world adventure 7
+elf world adventure 8
 elfe
 elfe noir
 elfenoir
@@ -70369,6 +70442,7 @@ escape from butcher bay
 escape from tung tung sahur
 escape protocol: hospital
 escape to the italian brainrot
+escape z
 escapefrombutcherbay
 escargoon
 escargoon escargoon
@@ -71510,6 +71584,7 @@ free fall associates
 free fall games
 free radical
 free radical software
+free strategy chess game
 free weekend
 freedom
 freedom fighters
@@ -73730,6 +73805,7 @@ hentai senpai: kairaku no maid service original soundtrack
 hentai store
 hentai tales: academy's record
 hentai tales: fallen brave squad
+hentai world bunny
 hephasto
 her
 her interactive
@@ -78292,6 +78368,7 @@ magic,
 magical
 magical advertence
 magical angel fairy princess
+magical animal farm
 magical chase
 magical company
 magical drop
@@ -79170,6 +79247,7 @@ memology: escape of memes
 memoremovers
 memoriapolis
 memories
+memory of lust
 men
 men of
 men of war
@@ -80741,6 +80819,7 @@ nebula
 nebula soft
 nebulantula
 nebulasoft
+nebulous: fleet command
 nec
 nec avenue
 nec home
@@ -84798,6 +84877,7 @@ red entertainment corporation
 red faction
 red fly
 red fly studio
+red light
 red mile
 red mile entertainment
 red orb
@@ -86394,6 +86474,7 @@ setzergabbiani
 sex adventures - incest family - episode 8
 sex adventures - incest family - episode 9
 sex adventures - naughty sisters - episode 9
+sex dorm🔞
 sexy glasses
 seymour
 sfinneran
@@ -86445,6 +86526,7 @@ shadowsoftware
 shadowthehedgehog
 shadowtor
 shadowtorstudios
+shadowverse: worlds beyond
 shadowwarrior
 shaheen
 shahra
@@ -87026,6 +87108,7 @@ slant six
 slant six games
 slantsix
 slantsixgames
+slapstick bosses
 slate
 slavania — the power of drum
 slay
@@ -88677,6 +88760,7 @@ tachibana
 tachikawa
 tactac
 tactical
+tactical battles
 tactical design
 tactical design group
 tactical warfare
@@ -89390,6 +89474,7 @@ the last train: baquedano
 the last visit: 98th
 the learning
 the learning company
+the legend of bubble boy
 the legend of zelda
 the legend of zelda a link to the past
 the legend of zelda breath of the wild
@@ -92971,6 +93056,7 @@ zèbre
 サキュバスクエスト～succubusquest～
 三国.兵临城下
 侦探，请守护我的秘密吧！
+修仙记——消消乐乱斗
 光域
 再上一层
 出張2 NEXT BUSINESS TRIP
@@ -93007,6 +93093,10 @@ zèbre
 我打不过漂亮的她们 Demo
 我打不过漂亮的她们 demo
 我打不过漂亮的她们Demo
+手机时代 MOBILE ERA
+手机时代 Mobile era
+手机时代 mobile era
+手机时代Mobileera
 挂机三国 无限升级
 挂机三国-无限升级
 末日卡牌
@@ -93019,6 +93109,11 @@ zèbre
 汉武大帝传-虞姬专属飒装DLC
 汉武大帝传-虞姬专属飒装dlc
 沉默传奇
+海钓少女食堂试用版 FISHING GIRL'S FANTASY DEMO
+海钓少女食堂试用版 Fishing Girl s Fantasy Demo
+海钓少女食堂试用版 Fishing Girl's Fantasy Demo
+海钓少女食堂试用版 fishing girl's fantasy demo
+海钓少女食堂试用版FishingGirl'sFantasyDemo
 消失的航班，还有她她她！LOST IN THE SECRET!
 消失的航班，还有她她她！Lost in the secret!
 消失的航班，还有她她她！Lostinthesecret!

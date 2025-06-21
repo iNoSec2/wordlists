@@ -65,6 +65,8 @@
 100 Forest Cats
 100 HIDDEN PANDAS: VILLAGE
 100 Hidden Pandas: Village
+100 ITALY CATS
+100 Italy Cats
 100 MEN VS GORILLA
 100 Men VS Gorilla
 100 TRIALS
@@ -77,6 +79,7 @@
 100 fantasy cats
 100 forest cats
 100 hidden pandas: village
+100 italy cats
 100 men vs gorilla
 100 trials
 1000
@@ -88,6 +91,7 @@
 100FantasyCats
 100ForestCats
 100HiddenPandas:Village
+100ItalyCats
 100MenVSGorilla
 100Trials
 101 CATS HIDDEN IN BARCELONA
@@ -991,6 +995,8 @@ ABYLIGHT
 ABYSS
 ABYSS GAME
 ABYSSAL
+ABYSSAL BLADE
+ABYSSALBLADE
 ABYSSGAME
 ABuildingFullofCats2
 AC COBRA
@@ -1503,6 +1509,7 @@ ALGUE
 ALGUE SECHEE
 ALGUESECHEE
 ALICE
+ALICE IN DISGUISE
 ALIEN
 ALIEN 8
 ALIEN AFTER
@@ -1550,6 +1557,7 @@ ALIVE
 ALKOR
 ALL
 ALL LIVING THINGS DEMO
+ALL-FRONT ASSAULT
 ALL-STAR
 ALL-STAR BASEBALL
 ALL-STARBASEBALL
@@ -3275,6 +3283,8 @@ Algue
 Algue séchée
 Algueséchée
 Alice
+Alice in Disguise
+AliceinDisguise
 Alien
 Alien 8
 Alien After
@@ -3321,7 +3331,10 @@ AlisaBoskonovitch
 Alive
 Alkor
 All
+All Front Assault
 All Living Things Demo
+All-Front Assault
+All-FrontAssault
 All-Star
 All-Star Baseball
 All-StarBaseball
@@ -5014,6 +5027,7 @@ BEAST
 BEASTMAN
 BEAT
 BEAT BOUNCE – MARBLE MUSIC BALL VIDEO CREATOR
+BEAT DODGER
 BEATE
 BEATMANIA
 BEATMANIA 2DX
@@ -5469,6 +5483,7 @@ BIT.TRIP
 BITAMANIA
 BITCOMPOSER
 BITCORP
+BITCRAFT ONLINE
 BITFIELD
 BITGENERATIONS
 BITLIBERATOR
@@ -6965,7 +6980,9 @@ Beastman
 Beat
 Beat Bounce - Marble Music Ball Video Creator
 Beat Bounce – Marble Music Ball Video Creator
+Beat Dodger
 BeatBounce–MarbleMusicBallVideoCreator
+BeatDodger
 Beat\'em\'All
 Beat\em\All
 Beate
@@ -7424,6 +7441,8 @@ Bit Generations
 Bit Managers
 Bit.Trip
 BitCorp
+BitCraft Online
+BitCraftOnline
 BitGenerations
 BitLiberator
 BitManagers
@@ -9699,6 +9718,7 @@ CLIPPERCOMPUTERPRODUCTS
 CLOAD
 CLOCK
 CLOCK TOWER
+CLOCKING IN TO FIGHT A LICH IN ANOTHER REALM
 CLOCKTOWER
 CLOCKWORK
 CLOCKWORK GAMES
@@ -10174,6 +10194,7 @@ COSMI CORPORATION
 COSMIC
 COSMIC CHASM
 COSMIC COLISEUM
+COSMIC MINERS
 COSMIC TAILS DEMO
 COSMICCHASM
 COSMICORPORATION
@@ -10483,6 +10504,7 @@ CRITICALTHOUGHTGAMES
 CRITTER ISLE
 CRITTER ISLE - SUPPORTER PACK
 CRITTER ISLE SOUNDTRACK
+CRITTERGARDEN
 CRIXUS: LIFE OF FREE GLADIATOR
 CRIXUS: Life of free Gladiator
 CRIXUS:LifeoffreeGladiator
@@ -11804,6 +11826,8 @@ ClipperComputerProducts
 Clock
 Clock Tower
 ClockTower
+Clocking In to Fight a Lich in Another Realm
+ClockingIntoFightaLichinAnotherRealm
 Clockwork
 Clockwork Games
 ClockworkGames
@@ -12273,9 +12297,11 @@ CosmiCorporation
 Cosmic
 Cosmic Chasm
 Cosmic Coliseum
+Cosmic Miners
 Cosmic Tails Demo
 CosmicChasm
 CosmicColiseum
+CosmicMiners
 CosmicTailsDemo
 Cosmigo
 Cosmo
@@ -12583,6 +12609,7 @@ Critter Isle
 Critter Isle   Supporter Pack
 Critter Isle - Supporter Pack
 Critter Isle Soundtrack
+CritterGarden
 CritterIsle
 CritterIsle-SupporterPack
 CritterIsleSoundtrack
@@ -14379,6 +14406,7 @@ DREADTOME
 DREAM
 DREAM FACTORY
 DREAM NIGHT
+DREAM OF CHANGE: POKER
 DREAM ON
 DREAM ON STUDIO
 DREAMCAST
@@ -16077,6 +16105,7 @@ Dream Factory
 Dream Night
 Dream On
 Dream On Studio
+Dream of Change: Poker
 DreamCatcher
 DreamFactory
 DreamNight
@@ -16090,6 +16119,7 @@ DreamcatcherInteractive
 Dreamer
 Dreamfab
 Dreamland
+DreamofChange:Poker
 Dreampainters
 Dreams
 Dreams Co
@@ -16908,6 +16938,8 @@ EMPEREURUSOKU
 EMPEREURVELOXXVII
 EMPIRE
 EMPIRE DES SITH
+EMPIRE GAME
+EMPIRE GAME-DLC1:EPIC HERO BUNDLE
 EMPIRE INTERACTIVE
 EMPIRE ROBOTNIK
 EMPIREDESSITH
@@ -17167,11 +17199,13 @@ ESCALATION STUDIOS
 ESCALATIONSTUDIOS
 ESCAPE
 ESCAPE FROM BUTCHER BAY
+ESCAPE FROM TIMOKHA 2: ARMY
 ESCAPE FROM TUNG TUNG SAHUR
 ESCAPE PROTOCOL: HOSPITAL
 ESCAPE TO THE ITALIAN BRAINROT
 ESCAPE Z
 ESCAPEFROMBUTCHERBAY
+ESCAPEFROMTIMOKHA2:ARMY
 ESCAPING WONDERLAND
 ESCARGOON
 ESCARGOON ESCARGOON
@@ -17887,9 +17921,14 @@ EmpereurBulblax
 EmpereurUsoku
 EmpereurVeloXXVII
 Empire
+Empire Game
+Empire Game DLC1:Epic Hero bundle
+Empire Game-DLC1:Epic Hero bundle
 Empire Interactive
 Empire Robotnik
 Empire des Sith
+EmpireGame
+EmpireGame-DLC1:EpicHerobundle
 EmpireInteractive
 EmpireRobotnik
 EmpiredesSith
@@ -19048,6 +19087,7 @@ FLOTTICLAUDEFLOTTICLAUDE
 FLOTTY
 FLOTTY LE NOYAU CELLULAIRE
 FLOTTYLENOYAUCELLULAIRE
+FLOWCITY BUILDER
 FLOWER
 FLOWER BANNER
 FLOWER BANNER PATTERN
@@ -20232,6 +20272,8 @@ FlotticlaudeFlotticlaude
 Flotty
 Flotty le noyau cellulaire
 Flottylenoyaucellulaire
+FlowCity Builder
+FlowCityBuilder
 Flower
 Flower Pot
 FlowerPot
@@ -23720,6 +23762,7 @@ HANDS-ONMOBILE
 HANDSON
 HANDSON MOBILE
 HANDSONMOBILE
+HANDSTAND HANK
 HANDYGAMES
 HANDYMAN FANTASY
 HANG
@@ -24044,6 +24087,7 @@ HENCHMAN800
 HENDERSON
 HENRI
 HENTAI BOXING MAGGIE
+HENTAI CLICKER: ALERINNA IS STREAMING
 HENTAI CLICKER: CATHY IS STREAMING
 HENTAI FURRY BUNNY
 HENTAI FURRY UNICORNY
@@ -24324,6 +24368,7 @@ HOLMES
 HOLOBYTE
 HOLOIDLE
 HOLON
+HOMAM: AN INVENTOR'S FIST
 HOMARTILLEUR
 HOMARTILLEUR HOMARTILLEUR
 HOMARTILLEURHOMARTILLEUR
@@ -24518,6 +24563,7 @@ HUMONGOUSENTERTAINMENT
 HUNEX
 HUNGRITIES
 HUNGRY
+HUNGRY FOR APPLEZ
 HUNGRY LILY & THE FALLEN KNIGHT
 HUNGRY SHARK
 HUNGRYSHARK
@@ -24695,6 +24741,8 @@ Hands-OnMobile
 HandsOn
 HandsOn Mobile
 HandsOnMobile
+Handstand Hank
+HandstandHank
 HandyGames
 Handyman Fantasy
 HandymanFantasy
@@ -25015,6 +25063,7 @@ Henchman800
 Henderson
 Henri
 Hentai Boxing Maggie
+Hentai Clicker: Alerinna is streaming
 Hentai Clicker: Cathy is streaming
 Hentai Furry Bunny
 Hentai Furry Unicorny
@@ -25030,6 +25079,7 @@ Hentai Tales: Academy's Record
 Hentai Tales: Fallen Brave Squad
 Hentai World Bunny
 HentaiBoxingMaggie
+HentaiClicker:Alerinnaisstreaming
 HentaiClicker:Cathyisstreaming
 HentaiFurryBunny
 HentaiFurryUnicorny
@@ -25319,6 +25369,9 @@ Holmes
 Holobyte
 Holoidle
 Holon
+Homam: An Inventor s Fist
+Homam: An Inventor's Fist
+Homam:AnInventor'sFist
 Homartilleur
 Homartilleur Homartilleur
 HomartilleurHomartilleur
@@ -25516,8 +25569,10 @@ Hungry
 Hungry Lily   The Fallen Knight
 Hungry Lily & The Fallen Knight
 Hungry Shark
+Hungry for Applez
 HungryLily&TheFallenKnight
 HungryShark
+HungryforApplez
 Hunt
 Hunta
 Hunta Hunta
@@ -30561,6 +30616,7 @@ LASTNINJA
 LASTOFUS
 LASTOFUSTHE
 LASTRESORT
+LATER ELEVATOR
 LATRIBUTIKITAK
 LAU
 LAUGHING
@@ -30732,6 +30788,7 @@ LEFORGERON
 LEFT
 LEFT 4 DEAD
 LEFT 4 DEAD 2
+LEFT BY ANGELS
 LEFT FIELD
 LEFT FIELD GAMES
 LEFT4DEAD
@@ -30807,6 +30864,7 @@ LEGENDOFZELDAOCARINAOFTIME
 LEGENDOFZELDATHE
 LEGENDOFZELDAWINDWAKER
 LEGENDS
+LEGENDS OF OLD
 LEGENERALCARAWAY
 LEGGETT
 LEGGINGS
@@ -31952,6 +32010,8 @@ LastofUsThe
 Lasérator
 Lasérator Lasérator
 LasératorLasérator
+Later Elevator
+LaterElevator
 Lau
 Laughing
 Laughing Jackal
@@ -32133,8 +32193,10 @@ LeeChaolan
 LeeHong
 Leeds
 Left
+Left By Angels
 Left Field
 Left Field Games
+LeftByAngels
 LeftField
 LeftFieldGames
 LeftRight
@@ -32193,6 +32255,8 @@ LegendofZelda
 LegendofZeldaThe
 LegendoftheMysticalNinja
 Legends
+Legends of Old
+LegendsofOld
 Leggett
 Leggings
 Lego
@@ -34620,6 +34684,7 @@ MINESTORM
 MINESWEEPER TOGETHER
 MINI
 MINI BOWSER
+MINI GAME HERO
 MINI RACER CAR SHOP SIMULATOR
 MINI SETTLERS
 MINI WHISPY WOODS
@@ -35341,6 +35406,7 @@ MUSE SOFTWARE
 MUSESOFTWARE
 MUSEUM
 MUSHROOM
+MUSHROOM MUSUME
 MUSHROOM STEW
 MUSHROOMSTEW
 MUSIC
@@ -36945,6 +37011,7 @@ Minesweeper Together
 MinesweeperTogether
 Mini
 Mini Bowser
+Mini Game Hero
 Mini Map
 Mini Racer Car Shop Simulator
 Mini Settlers
@@ -36953,6 +37020,7 @@ Mini-Boss
 Mini-Map
 MiniBoss
 MiniBowser
+MiniGameHero
 MiniNation
 MiniRacerCarShopSimulator
 MiniSettlers
@@ -37621,7 +37689,9 @@ Muse Software
 MuseSoftware
 Museum
 Mushroom
+Mushroom Musume
 Mushroom Stew
+MushroomMusume
 MushroomStew
 Music
 Music Disc
@@ -38361,6 +38431,7 @@ NICOLETTA
 NIDOO
 NIDOO NIDOO
 NIDOONIDOO
+NIER:AUTOMATA™
 NIGEL
 NIGEL THORNHILL
 NIGEL WEIR
@@ -38519,6 +38590,7 @@ NITE TIME GAMES
 NITETIME
 NITETIMEGAMES
 NITHISSON
+NITRO BATTLE RACING
 NITRO EXPRESS
 NITROS
 NITROS OXIDE
@@ -39169,6 +39241,8 @@ Nicoletta
 Nidoo
 Nidoo Nidoo
 NidooNidoo
+NieR:Automata(TM)
+NieR:Automata™
 Nigel
 Nigel Thornhill
 Nigel Weir
@@ -39325,7 +39399,9 @@ Nite Time Games
 NiteTime
 NiteTimeGames
 Nithisson
+Nitro Battle Racing
 Nitro Express
+NitroBattleRacing
 NitroExpress
 Nitros
 Nitros Oxide
@@ -40144,6 +40220,7 @@ ONIRIC GAMES
 ONIRICGAMES
 ONLINE
 ONLINE RECORDS: UNKNOWN SELLER
+ONLY JUMP ON POGO
 ONLY WHORES SURVIVE 🔞
 ONOX
 ONTIME
@@ -40952,8 +41029,10 @@ OniricGames
 Online
 Online Records: Unknown Seller
 OnlineRecords:UnknownSeller
+Only Jump On Pogo
 Only Whores Survive ?
 Only Whores Survive 🔞
+OnlyJumpOnPogo
 OnlyWhoresSurvive🔞
 Onox
 Onyxia
@@ -41524,6 +41603,7 @@ PARASOLSTARS
 PARASYDRE
 PARASYDRE ENRAGE
 PARASYDREENRAGE
+PARCEL SIMULATOR
 PARCHEZZI
 PARDEVELOPPEUR
 PAREDITEUR
@@ -41602,6 +41682,7 @@ PATAVERT
 PATCH
 PATH
 PATH OF THE ABYSS
+PATHSKETCH
 PATIENT 001
 PATRA
 PATRICIA
@@ -41802,6 +41883,7 @@ PEOPLE CAN
 PEOPLE CAN FLY
 PEOPLECAN
 PEOPLECANFLY
+PEP A PIG
 PEPIN
 PEPIN LE GUERISSEUR 
 PEPIN THE HEALER
@@ -42502,6 +42584,7 @@ POKEMONMINI
 POKEMONREDANDBLUE
 POKEMONSTADIUM
 POKEY
+POKITAIRE DEMO
 POKO
 POKUS
 POLAR
@@ -43474,6 +43557,8 @@ Parasydre enrage
 Parasydre enragé
 Parasydreenrage
 Parasydreenragé
+Parcel Simulator
+ParcelSimulator
 Parchezzi
 Pardéveloppeur
 Pargne
@@ -43554,6 +43639,7 @@ Patavert
 Patch
 Path
 Path of the Abyss
+PathSketch
 PathoftheAbyss
 Patient 001
 Patient001
@@ -43667,6 +43753,8 @@ People Can
 People Can Fly
 PeopleCan
 PeopleCanFly
+Pep a Pig
+PepaPig
 Pepin
 Pepin le Guerisseur 
 Pepin le Guérisseur 
@@ -44344,6 +44432,8 @@ PokemonDonjonMystere
 PokemonMini
 PokemonStadium
 Pokey
+Pokitaire Demo
+PokitaireDemo
 Poko
 Pokus
 Pokémon
@@ -45449,8 +45539,12 @@ RAKANISHU
 RAKANOTH
 RAKE
 RAKE IN
+RAKE IN   Scoring Big With Monster Girls!
+RAKE IN - SCORING BIG WITH MONSTER GIRLS!
+RAKE IN - Scoring Big With Monster Girls!
 RAKE IN GRASS
 RAKEIN
+RAKEIN-ScoringBigWithMonsterGirls!
 RAKEINGRASS
 RALEIGH
 RALENTISSEMENT
@@ -45791,6 +45885,7 @@ REED
 REED WAHL
 REEDWAHL
 REEF
+REEF DEFENSE
 REEF ENTERTAINMENT
 REEFENTERTAINMENT
 REEL IT! FISHING
@@ -47050,7 +47145,9 @@ Reed
 Reed Wahl
 ReedWahl
 Reef
+Reef Defense
 Reef Entertainment
+ReefDefense
 ReefEntertainment
 Reel it! Fishing
 Reelit!Fishing
@@ -49762,6 +49859,7 @@ SOULS
 SOULSTONE SURVIVORS
 SOUND
 SOUND TECHNOLOGY
+SOUNDS OF HER LOVE 2
 SOUNDTECHNOLOGY
 SOUP
 SOUPE
@@ -50520,6 +50618,7 @@ SUGARCANE
 SUGAWARA
 SUIKODEN
 SUIT
+SUIT FOR HIRE
 SUJET
 SUJET DELTA
 SUJETDELTA
@@ -50594,6 +50693,7 @@ SUPER CHINESE
 SUPER COBRA
 SUPER COLUMNS
 SUPER CRICKET FIGHTER TURBO
+SUPER CURSOR
 SUPER DODGEBALL
 SUPER DOG ADVENTURE
 SUPER ENGINE GT TURBO SPEC
@@ -52679,6 +52779,8 @@ SoulstoneSurvivors
 Sound
 Sound Technology
 SoundTechnology
+Sounds of Her Love 2
+SoundsofHerLove2
 Soup
 Soupe
 Soupe de betteraves
@@ -53437,6 +53539,8 @@ SugarCane
 Sugawara
 Suikoden
 Suit
+Suit for Hire
+SuitforHire
 Sujet
 Sujet Delta
 SujetDelta
@@ -53517,6 +53621,7 @@ Super Chinese
 Super Cobra
 Super Columns
 Super Cricket Fighter Turbo
+Super Cursor
 Super Dodgeball
 Super Dog Adventure
 Super Engine GT Turbo SPEC
@@ -53588,6 +53693,7 @@ SuperChinese
 SuperCobra
 SuperColumns
 SuperCricketFighterTurbo
+SuperCursor
 SuperDodgeball
 SuperDogAdventure
 SuperEgo
@@ -54539,6 +54645,7 @@ THE BEARDED LADIES CONSULTING
 THE BEAST KING PLAN
 THE BEHEMOT
 THE BEHEMOTH
+THE BETWEEN
 THE BINARY
 THE BINARY MILL
 THE BITMAP
@@ -54599,6 +54706,7 @@ THE EVERFLOATING ISLAND
 THE EVIL
 THE EVIL 3
 THE EYES
+THE FACTORY
 THE FALLING STAR
 THE FARMER & THE CHICKEN
 THE FINAL
@@ -54746,6 +54854,7 @@ THE STILL
 THE TAVERN IN THE WOODS
 THE TOWN OF DOWNPOUR
 THE UNTOLD LEGENDS: BABA YAGA
+THE UPPER HAND
 THE VISION
 THE VISION FACTORY
 THE VOXEL
@@ -54754,6 +54863,7 @@ THE WALKING DEAD
 THE WARP
 THE WARP FACTORY
 THE WAY OF THE EXPLODING FIST
+THE WILD EIGHT
 THE WIND WAKER
 THE WITCHER 3
 THE WITCHER 3 WILD HUNT
@@ -56013,6 +56123,7 @@ TWO LIVES
 TWO LIVES LEFT
 TWO POINT
 TWO POINT STUDIOS
+TWO THE TOP
 TWO TRIBES
 TWOFIVESIX
 TWOHEADS
@@ -56665,6 +56776,7 @@ The Bearded Ladies Consulting
 The Beast King Plan
 The Behemot
 The Behemoth
+The Between
 The Binary
 The Binary Mill
 The Bitmap
@@ -56717,6 +56829,7 @@ The EverFloating Island
 The Evil
 The Evil 3
 The Eyes
+The Factory
 The Falling Star
 The Farmer   the Chicken
 The Farmer & the Chicken
@@ -56838,6 +56951,7 @@ The Still
 The Tavern In the Woods
 The Town of Downpour
 The Untold Legends: Baba Yaga
+The Upper Hand
 The Vision
 The Vision Factory
 The Voxel
@@ -56845,6 +56959,7 @@ The Voxel Agents
 The Warp
 The Warp Factory
 The Way of the Exploding Fist
+The Wild Eight
 The Witcher 3: Wild Hunt
 The Witcher 3: Wild Hunt   Complete Edition
 The Witcher 3: Wild Hunt - Complete Edition
@@ -56879,6 +56994,7 @@ TheBeardedLadiesConsulting
 TheBeastKingPlan
 TheBehemot
 TheBehemoth
+TheBetween
 TheBinary
 TheBinaryMill
 TheBitmap
@@ -56933,6 +57049,7 @@ TheEverFloatingIsland
 TheEvil
 TheEvil3
 TheEyes
+TheFactory
 TheFallingStar
 TheFarmer&theChicken
 TheFinal
@@ -57049,6 +57166,7 @@ TheStill
 TheTavernIntheWoods
 TheTownofDownpour
 TheUntoldLegends:BabaYaga
+TheUpperHand
 TheVision
 TheVisionFactory
 TheVoxel
@@ -57056,6 +57174,7 @@ TheVoxelAgents
 TheWarp
 TheWarpFactory
 TheWayoftheExplodingFist
+TheWildEight
 TheWitcher3:WildHunt
 TheWitcher3:WildHunt-CompleteEdition
 Theanthria
@@ -58040,6 +58159,7 @@ Two Lives Left
 Two Point
 Two Point Studios
 Two Tribes
+Two the Top
 TwoFiveSix
 TwoHeads
 TwoHeads Games
@@ -58049,6 +58169,7 @@ TwoLivesLeft
 TwoPoint
 TwoPointStudios
 TwoTribes
+TwotheTop
 Ty
 Ty Bradley
 TyBradley
@@ -58754,6 +58875,7 @@ VELEZ & DUBAIL
 VELEZ&
 VELEZ&DUBAIL
 VELO
+VELOCITY RIDERS
 VELORIA: THE KNOT OF CANDLES
 VENAN
 VENAN ENTERTAINMENT
@@ -59312,6 +59434,8 @@ Velez & Dubail
 Velez&
 Velez&Dubail
 Velo
+Velocity Riders
+VelocityRiders
 Veloria: The Knot of Candles
 Veloria:TheKnotofCandles
 Venan
@@ -60079,6 +60203,7 @@ WHISKERS WHISKERS
 WHISKERSWHISKERS
 WHISPERED SECRETS: MORBID OBSESSION COLLECTOR'S EDITION
 WHISPERED SECRETS: PURRFECT HORROR COLLECTOR'S EDITION
+WHISPERS FROM THE RIFT
 WHISPY
 WHISPY WOODS
 WHISPY WOODS JR
@@ -60791,6 +60916,8 @@ Whispered Secrets: Purrfect Horror Collector s Edition
 Whispered Secrets: Purrfect Horror Collector's Edition
 WhisperedSecrets:MorbidObsessionCollector'sEdition
 WhisperedSecrets:PurrfectHorrorCollector'sEdition
+Whispers From The Rift
+WhispersFromTheRift
 Whispy
 Whispy Woods
 Whispy Woods Jr
@@ -62480,6 +62607,7 @@ abylight
 abyss
 abyss game
 abyssal
+abyssal blade
 abyssgame
 ac cobra
 acacia
@@ -62964,6 +63092,7 @@ algue séchée
 alguesechee
 algueséchée
 alice
+alice in disguise
 alien
 alien 8
 alien after
@@ -63011,6 +63140,7 @@ alive
 alkor
 all
 all living things demo
+all-front assault
 all-star
 all-star baseball
 all-starbaseball
@@ -64722,6 +64852,7 @@ beast
 beastman
 beat
 beat bounce – marble music ball video creator
+beat dodger
 beat\'em\'all
 beat\em\all
 beate
@@ -65175,6 +65306,7 @@ bitComposer
 bitamania
 bitcomposer
 bitcorp
+bitcraft online
 bitfield
 bitgenerations
 bitliberator
@@ -67393,6 +67525,7 @@ clippercomputerproducts
 cload
 clock
 clock tower
+clocking in to fight a lich in another realm
 clocktower
 clockwork
 clockwork games
@@ -67872,6 +68005,7 @@ cosmi corporation
 cosmic
 cosmic chasm
 cosmic coliseum
+cosmic miners
 cosmic tails demo
 cosmicchasm
 cosmicorporation
@@ -68186,6 +68320,7 @@ criticalthoughtgames
 critter isle
 critter isle - supporter pack
 critter isle soundtrack
+crittergarden
 crixus: life of free gladiator
 crl
 crl group
@@ -69942,6 +70077,7 @@ dreadtome
 dream
 dream factory
 dream night
+dream of change: poker
 dream on
 dream on studio
 dreamcast
@@ -70760,6 +70896,8 @@ empereurusoku
 empereurveloxxvii
 empire
 empire des sith
+empire game
+empire game-dlc1:epic hero bundle
 empire interactive
 empire robotnik
 empiredessith
@@ -71035,6 +71173,7 @@ escalation studios
 escalationstudios
 escape
 escape from butcher bay
+escape from timokha 2: army
 escape from tung tung sahur
 escape protocol: hospital
 escape to the italian brainrot
@@ -71924,6 +72063,7 @@ flotticlaudeflotticlaude
 flotty
 flotty le noyau cellulaire
 flottylenoyaucellulaire
+flowcity builder
 flower
 flower banner
 flower banner pattern
@@ -74074,6 +74214,7 @@ hands-onmobile
 handson
 handson mobile
 handsonmobile
+handstand hank
 handygames
 handyman fantasy
 hang
@@ -74404,6 +74545,7 @@ henchman800
 henderson
 henri
 hentai boxing maggie
+hentai clicker: alerinna is streaming
 hentai clicker: cathy is streaming
 hentai furry bunny
 hentai furry unicorny
@@ -74683,6 +74825,7 @@ holmes
 holobyte
 holoidle
 holon
+homam: an inventor's fist
 homartilleur
 homartilleur homartilleur
 homartilleurhomartilleur
@@ -74875,6 +75018,7 @@ humongousentertainment
 hunex
 hungrities
 hungry
+hungry for applez
 hungry lily & the fallen knight
 hungry shark
 hungryshark
@@ -77698,6 +77842,7 @@ lastresort
 lasérator
 lasérator lasérator
 lasératorlasérator
+later elevator
 latributikitak
 lau
 laughing
@@ -77864,6 +78009,7 @@ leforgeron
 left
 left 4 dead
 left 4 dead 2
+left by angels
 left field
 left field games
 left4dead
@@ -77939,6 +78085,7 @@ legendofzeldaocarinaoftime
 legendofzeldathe
 legendofzeldawindwaker
 legends
+legends of old
 legeneralcaraway
 leggett
 leggings
@@ -80404,6 +80551,7 @@ minestorm
 minesweeper together
 mini
 mini bowser
+mini game hero
 mini racer car shop simulator
 mini settlers
 mini whispy woods
@@ -81119,6 +81267,7 @@ muse software
 musesoftware
 museum
 mushroom
+mushroom musume
 mushroom stew
 mushroomstew
 music
@@ -81767,6 +81916,7 @@ nicoletta
 nidoo
 nidoo nidoo
 nidoonidoo
+nier:automata™
 nigel
 nigel thornhill
 nigel weir
@@ -81923,6 +82073,7 @@ nite time games
 nitetime
 nitetimegames
 nithisson
+nitro battle racing
 nitro express
 nitros
 nitros oxide
@@ -82769,6 +82920,7 @@ oniric games
 oniricgames
 online
 online records: unknown seller
+only jump on pogo
 only whores survive 🔞
 onox
 ontime
@@ -83328,6 +83480,7 @@ parasydre enrage
 parasydre enragé
 parasydreenrage
 parasydreenragé
+parcel simulator
 parchezzi
 pardeveloppeur
 pardéveloppeur
@@ -83408,6 +83561,7 @@ patavert
 patch
 path
 path of the abyss
+pathsketch
 patient 001
 patra
 patricia
@@ -83565,6 +83719,7 @@ people can
 people can fly
 peoplecan
 peoplecanfly
+pep a pig
 pepin
 pepin le guerisseur 
 pepin le guérisseur 
@@ -84274,6 +84429,7 @@ pokemonmini
 pokemonredandblue
 pokemonstadium
 pokey
+pokitaire demo
 poko
 pokus
 pokémon
@@ -85267,6 +85423,7 @@ rakanishu
 rakanoth
 rake
 rake in
+rake in - scoring big with monster girls!
 rake in grass
 rakein
 rakeingrass
@@ -85604,6 +85761,7 @@ reed
 reed wahl
 reedwahl
 reef
+reef defense
 reef entertainment
 reefentertainment
 reel it! fishing
@@ -88224,6 +88382,7 @@ souls
 soulstone survivors
 sound
 sound technology
+sounds of her love 2
 soundtechnology
 soup
 soupe
@@ -88974,6 +89133,7 @@ sugarcane
 sugawara
 suikoden
 suit
+suit for hire
 sujet
 sujet delta
 sujetdelta
@@ -89048,6 +89208,7 @@ super chinese
 super cobra
 super columns
 super cricket fighter turbo
+super cursor
 super dodgeball
 super dog adventure
 super engine gt turbo spec
@@ -90050,6 +90211,7 @@ the bearded ladies consulting
 the beast king plan
 the behemot
 the behemoth
+the between
 the binary
 the binary mill
 the bitmap
@@ -90110,6 +90272,7 @@ the everfloating island
 the evil
 the evil 3
 the eyes
+the factory
 the falling star
 the farmer & the chicken
 the final
@@ -90254,6 +90417,7 @@ the still
 the tavern in the woods
 the town of downpour
 the untold legends: baba yaga
+the upper hand
 the vision
 the vision factory
 the voxel
@@ -90262,6 +90426,7 @@ the walking dead
 the warp
 the warp factory
 the way of the exploding fist
+the wild eight
 the wind waker
 the witcher 3
 the witcher 3 wild hunt
@@ -91495,6 +91660,7 @@ two lives
 two lives left
 two point
 two point studios
+two the top
 two tribes
 twofivesix
 twoheads
@@ -91951,6 +92117,7 @@ velez & dubail
 velez&
 velez&dubail
 velo
+velocity riders
 veloria: the knot of candles
 venan
 venan entertainment
@@ -92723,6 +92890,7 @@ whiskers whiskers
 whiskerswhiskers
 whispered secrets: morbid obsession collector's edition
 whispered secrets: purrfect horror collector's edition
+whispers from the rift
 whispy
 whispy woods
 whispy woods jr

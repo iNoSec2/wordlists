@@ -782,7 +782,10 @@
 9
 9 KINGS
 9 Kings
+9 TRIALS OF WHISKERS
+9 Trials of Whiskers
 9 kings
+9 trials of whiskers
 90
 911 OPERATOR
 911 Operator
@@ -805,6 +808,7 @@
 9FACTORY
 9Factory
 9Kings
+9TrialsofWhiskers
 9factory
 :
 ??
@@ -1244,6 +1248,7 @@ AEONFLAME
 AERIA
 AERIA GAMES
 AERIAGAMES
+AERIAL ACES
 AERIE
 AERIS
 AERIS GAINSBOROUGH
@@ -1743,6 +1748,7 @@ AMIGACORPORATION
 AMIGO
 AMIR
 AMIRAL
+AMMO GARDEN
 AMN
 AMNESTY
 AMNESTY INTERNATIONAL
@@ -2234,6 +2240,7 @@ ARMORED
 ARMORED CORE
 ARMORED CORE(TM) VI FIRES OF RUBICON(TM)
 ARMORED CORE™ VI FIRES OF RUBICON™
+ARMORED WARFARE - SUMMER BUNDLE
 ARMORED WARRIORS
 ARMOREDCORE
 ARMOREDCORE™VIFIRESOFRUBICON™
@@ -2603,6 +2610,7 @@ ATREIDCONCEPT
 ATREIDCONCEPTSA
 ATTACK
 ATTACK ON INIREA
+ATTACK ON STEEL
 ATTACK THROW
 ATTACKTHROW
 ATTORNEY
@@ -3057,6 +3065,8 @@ AeonFlame
 Aeria
 Aeria Games
 AeriaGames
+Aerial Aces
+AerialAces
 Aerie
 Aeris
 Aeris Gainsborough
@@ -3521,6 +3531,8 @@ AmigaCorporation
 Amigo
 Amir
 Amiral
+Ammo Garden
+AmmoGarden
 Amnesty
 Amnesty International
 Amnesty International France
@@ -4002,8 +4014,11 @@ ArmorProject
 ArmorStand
 Armored
 Armored Core
+Armored Warfare   Summer Bundle
+Armored Warfare - Summer Bundle
 Armored Warriors
 ArmoredCore
+ArmoredWarfare-SummerBundle
 ArmoredWarriors
 Arms
 Arms:
@@ -4337,8 +4352,10 @@ AtreidConceptSA
 Attack
 Attack Throw
 Attack on Inirea
+Attack on Steel
 AttackThrow
 AttackonInirea
+AttackonSteel
 AttheSummitofMountRojerya
 Attorney
 Auberge
@@ -6491,6 +6508,7 @@ BURDEN OF THE BLUE
 BUREAU
 BURGER
 BURGER TIME
+BURGER WITCH
 BURGERTIME
 BURGRED
 BURGRED BURGRED
@@ -8465,7 +8483,9 @@ BurdenoftheBlue
 Bureau
 Burger
 Burger Time
+Burger Witch
 BurgerTime
+BurgerWitch
 Burgred
 Burgred Burgred
 BurgredBurgred
@@ -9540,6 +9560,7 @@ CHRISTOPHER THORNDYKE
 CHRISTOPHERDIREMO
 CHRISTOPHERTHORNDYKE
 CHROM
+CHROMA BLASTERS
 CHRONICLES
 CHRONICLES OF RIDDICK
 CHRONICLES OF RIDDICK: ESCAPE FROM BUTCHER BAY
@@ -10116,6 +10137,7 @@ COOKIE
 COOKING
 COOKING MAMA
 COOKING MAMA LIMITED
+COOKING WITH MAGIC
 COOKINGMAMA
 COOKINGMAMALIMITED
 COOL
@@ -11664,6 +11686,8 @@ Christopher di Remo
 ChristopherThorndyke
 ChristopherdiRemo
 Chrom
+Chroma Blasters
+ChromaBlasters
 Chronicles
 Chronicles of Riddick
 Chronicles of Riddick: Escape from Butcher Bay
@@ -12220,8 +12244,10 @@ Cookie
 Cooking
 Cooking Mama
 Cooking Mama Limited
+Cooking with Magic
 CookingMama
 CookingMamaLimited
+CookingwithMagic
 Cool
 Cool Boarders
 Cool Spook
@@ -13130,6 +13156,7 @@ DARK GAÏA
 DARK GLOBOX
 DARK KAHN
 DARK MALGUS
+DARK MINE
 DARK OAK
 DARK OAK BOAT
 DARK OAK DOOR
@@ -14594,6 +14621,7 @@ DUKEEDMUND
 DUKENUKEM
 DUKENUKEM3D
 DUMB
+DUMB AF
 DUMB DRUM
 DUMB WAYS TO
 DUMB WAYS TO DIE
@@ -14850,6 +14878,7 @@ Dark Gaïa
 Dark Globox
 Dark Kahn
 Dark Malgus
+Dark Mine
 Dark Oak
 Dark Oak Boat
 Dark Oak Door
@@ -14873,6 +14902,7 @@ DarkGaïa
 DarkGlobox
 DarkKahn
 DarkMalgus
+DarkMine
 DarkOak
 DarkOakBoat
 DarkOakDoor
@@ -16256,9 +16286,11 @@ DukeEdmund
 DukeNukem
 DukeNukem3D
 Dumb
+Dumb AF
 Dumb Drum
 Dumb Ways to
 Dumb Ways to Die
+DumbAF
 DumbDrum
 DumbWaysto
 DumbWaystoDie
@@ -17425,6 +17457,7 @@ EXIT - N.F.
 EXIT TOGETHER
 EXKEE
 EXO DIGGER
+EXO-CALIBRE SOUNDTRACK
 EXOCOLONY: PLANET SURVIVAL
 EXOPAL
 EXOR
@@ -18398,7 +18431,10 @@ Exit Together
 Exit-N.F.
 ExitTogether
 Exkee
+Exo Calibre Soundtrack
 Exo Digger
+Exo-Calibre Soundtrack
+Exo-CalibreSoundtrack
 ExoColony: Planet Survival
 ExoColony:PlanetSurvival
 ExoDigger
@@ -19148,6 +19184,7 @@ FLOWERPOT
 FLOWER_BANNER_PATTERN
 FLOWLOOP&
 FLOYD
+FLUFFY MEMORIES
 FLUFFYINN DEMO
 FLUFFYLOGIC
 FLUID
@@ -20338,9 +20375,11 @@ Flower
 Flower Pot
 FlowerPot
 Floyd
+Fluffy Memories
 FluffyInn Demo
 FluffyInnDemo
 FluffyLogic
+FluffyMemories
 Fluid
 Fluid Studios
 FluidStudios
@@ -21767,6 +21806,7 @@ GOLDFISH
 GOLDINGOT
 GOLDNUGGET
 GOLF
+GOLGALIAN
 GOMAR
 GOMAR  SHIOH
 GOMAR & SHIOH
@@ -22087,6 +22127,7 @@ GRIGORIIGRIGORII
 GRIGSBY
 GRIM
 GRIM FANDANGO
+GRIM-CHAN'S SOUL FIGHT
 GRIMES
 GRIMFANDANGO
 GRIMOIRE
@@ -23173,6 +23214,7 @@ Goldeneye007
 Goldfarb
 Goldfish
 Golf
+Golgalian
 Gomar
 Gomar  Shioh
 Gomar & Shioh
@@ -23447,6 +23489,10 @@ Grigorii
 Grigorii Grigorii
 GrigoriiGrigorii
 Grigsby
+Grim chan's Soul Fight
+Grim-chan s Soul Fight
+Grim-chan's Soul Fight
+Grim-chan'sSoulFight
 Grimes
 Grimoire
 Grimstar: Crystals are the New Oil!
@@ -23671,6 +23717,9 @@ GénésisRhapsodos
 Gérard
 H
 H.
+H.A.D.E.S ZERO
+H.A.D.E.S Zero
+H.A.D.E.SZero
 H.A.N.D
 H.E.R.O
 H2O
@@ -24138,6 +24187,7 @@ HELIX
 HELIXE
 HELL
 HELL AND BACK
+HELL LET LOOSE - OPERATION OVERLORD UNITS
 HELLDIVERS(TM) 2
 HELLDIVERS™ 2
 HELLDIVERS™2
@@ -24589,6 +24639,7 @@ HOUSEOFTHEDEAD
 HOUSEOFTHEDEAD2
 HOUSEOFTHEDEADTHE
 HOUSES
+HOW 2 ESCAPE: LOST SUBMARINE
 HOWARD
 HQ
 HROTHGAR
@@ -25124,7 +25175,10 @@ Helix
 Helixe
 Hell
 Hell And Back
+Hell Let Loose   Operation Overlord Units
+Hell Let Loose - Operation Overlord Units
 HellAndBack
+HellLetLoose-OperationOverlordUnits
 Hello
 Hello Games
 Hello, your order...
@@ -25604,6 +25658,8 @@ HouseoftheDead
 HouseoftheDead2
 HouseoftheDeadThe
 Houses
+How 2 Escape: Lost Submarine
+How2Escape:LostSubmarine
 Howard
 Hrothgar
 Hrothgar Hrothgar
@@ -25800,6 +25856,7 @@ ICD
 ICE
 ICE CLIMBER
 ICE CLIMBERS
+ICE CREAM TYPER
 ICEBERG
 ICEBERG INTERACTIVE
 ICEBERGINTERACTIVE
@@ -26420,6 +26477,7 @@ IRON PICKAXE
 IRON SHOVEL
 IRON SOLDIER
 IRON SWORD
+IRON TANGLE BREAKOUT
 IRONAXE
 IRONBOOTS
 IRONBYTE
@@ -26556,8 +26614,10 @@ Icarus
 Ice
 Ice Climber
 Ice Climbers
+Ice Cream Typer
 IceClimber
 IceClimbers
+IceCreamTyper
 Iceberg
 Iceberg Interactive
 IcebergInteractive
@@ -27115,6 +27175,7 @@ Iron Pickaxe
 Iron Shovel
 Iron Soldier
 Iron Sword
+Iron Tangle Breakout
 IronAxe
 IronBoots
 IronByte
@@ -27135,6 +27196,7 @@ IronPickaxe
 IronShovel
 IronSoldier
 IronSword
+IronTangleBreakout
 Ironclad
 Ironclad Games
 IroncladGames
@@ -28745,6 +28807,7 @@ KASUGANO
 KAT
 KATAMARI
 KATAMARI DAMACY
+KATAMARI DAMACY REROLL
 KATAMARI DAMACY WE LOVE KATAMARI
 KATAMARI DAMACY, WE LOVE KATAMARI
 KATAMARIDAMACY
@@ -29442,6 +29505,7 @@ KUNGLAO
 KUNIMITSU
 KUNIO-KUN
 KUNIOKUN
+KUNOICHI KEIKO: THE LUST VILLAGE
 KURE
 KUROW
 KUROW KIRISHIMA
@@ -29667,10 +29731,12 @@ Kasugano
 Kat
 Katamari
 Katamari Damacy
+Katamari Damacy REROLL
 Katamari Damacy We Love Katamari
 Katamari Damacy, We Love Katamari
 KatamariDamacy
 KatamariDamacy,WeLoveKatamari
+KatamariDamacyREROLL
 KatamariDamacyWeLoveKatamari
 Katana
 Katarina
@@ -30329,6 +30395,8 @@ KungLao
 Kunimitsu
 Kunio-kun
 Kuniokun
+Kunoichi Keiko: The Lust Village
+KunoichiKeiko:TheLustVillage
 Kure
 Kurow
 Kurow Kirishima
@@ -30521,6 +30589,7 @@ LA MARIEE EN FUITE
 LA MINI VOITURE
 LA PRINCESSE FEE BANANE
 LA REINE OISEAU BANANE
+LA SALAMANCA
 LA SIRENE
 LA SIRÈNE
 LA TOUR DES OMBRES
@@ -31373,6 +31442,8 @@ LIMEI
 LIMELIGHT
 LIMELIGHT SOFTWARE
 LIMELIGHTSOFTWARE
+LIMINAL SHIFT
+LIMINALSHIFT
 LIMITED
 LIMPITOYABLE
 LIN
@@ -31884,6 +31955,7 @@ La Mini voiture
 La Princesse Fee Banane
 La Princesse Fée Banane
 La Reine Oiseau Banane
+La Salamanca
 La Sirene
 La Sirène
 La Tour des Ombres
@@ -31904,6 +31976,7 @@ LaPrincesseFeeBanane
 LaPrincesseFéeBanane
 LaReineOiseauBanane
 LaRoche
+LaSalamanca
 LaSirene
 LaSirène
 LaTourdesOmbres
@@ -33484,6 +33557,7 @@ MAHJONG EXPEDITION
 MAHJONG HOUSE: CHALLENGE ALL ACHIEVEMENTS
 MAI
 MAID FOR MY MASTER
+MAIDEN
 MAIDEN AND LORD-DLC-LAFAYETTE SPECIAL-BODY MOVEMENT
 MAIDEN DEMO
 MAIEV
@@ -33690,6 +33764,7 @@ MARCUSAHRENS&HOLGER
 MARCUSAHRENS&HOLGERSCHMI
 MARDUK
 MARECHAL
+MAREDARE
 MARET
 MARGAUX
 MARIA
@@ -35846,6 +35921,7 @@ MahjongHouse:ChallengeAllAchievements
 Mai
 Maid For My Master
 MaidForMyMaster
+Maiden
 Maiden And Lord DLC Lafayette Special Body Movement
 Maiden And Lord-DLC-Lafayette Special-Body Movement
 Maiden Demo
@@ -36057,6 +36133,7 @@ MarcusAhrens&
 MarcusAhrens&Holger
 MarcusAhrens&HolgerSchmi
 Marduk
+MareDare
 Marechal
 Maret
 Margaux
@@ -38074,6 +38151,7 @@ NANCY-MI847J
 NANCYMI847J
 NANJO
 NANNING
+NANOMON VIRTUAL PET
 NAOE
 NAOMIE
 NAOPLAY
@@ -38579,6 +38657,7 @@ NIGHT
 NIGHT GRIP
 NIGHT MARKET SIMULATOR
 NIGHT OF THE STARS
+NIGHT SHIFT
 NIGHT SWARM DEMO
 NIGHT TERROR
 NIGHT TRAP
@@ -39062,6 +39141,8 @@ Nancy-MI847J
 NancyMI847J
 Nanjo
 Nanning
+Nanomon Virtual Pet
+NanomonVirtualPet
 Naoe
 Naomie
 Naoplay
@@ -39393,12 +39474,14 @@ NigelWeir
 Night
 Night Grip
 Night Market Simulator
+Night Shift
 Night Swarm Demo
 Night Terror
 Night Trap
 Night of the Stars
 NightGrip
 NightMarketSimulator
+NightShift
 NightSwarmDemo
 NightTerror
 NightTrap
@@ -39832,6 +39915,7 @@ OBJETSDIVERSET
 OBJETSDIVERSETDECORATIFS
 OBLIVION
 OBRIESKI
+OBSERVER PROTOCOL: THE STATION - FIRST SHIFT
 OBSIDIAN
 OBSIDIAN ENTERTAINMENT
 OBSIDIANENTERTAINMENT
@@ -40347,6 +40431,7 @@ ONCEUPONA
 ONCEUPONATIME
 ONE
 ONE DAY AT A TIME
+ONE LAST TOAST
 ONE MAN´S TRASH DEMO
 ONE OF THE MANY
 ONE PIECE
@@ -40652,6 +40737,9 @@ Objetsdivers
 Objetsdiverset
 Objetsdiversetdécoratifs
 Obrieski
+Observer Protocol: The Station   First Shift
+Observer Protocol: The Station - First Shift
+ObserverProtocol:TheStation-FirstShift
 Obsidian
 Obsidian Entertainment
 ObsidianEntertainment
@@ -41151,6 +41239,7 @@ OnceUpona
 OnceUponaTime
 One
 One Day At A Time
+One Last Toast
 One Man's Trash Demo
 One Man´s Trash Demo
 One Piece
@@ -41161,6 +41250,7 @@ One s Own Exile
 One's Own Exile
 One'sOwnExile
 OneDayAtATime
+OneLastToast
 OneMan´sTrashDemo
 OnePiece
 OnePiece:GrandBattleSwanColosseum
@@ -41836,6 +41926,7 @@ PATAVERT
 PATCH
 PATH
 PATH OF THE ABYSS
+PATHLESS MAZE TD
 PATHSKETCH
 PATIENT 001
 PATRA
@@ -42509,6 +42600,7 @@ PLANET INTERACTIVE DEVELOPMENT
 PLANET MOON
 PLANET NEMO
 PLANET NEMO PRODUCTIONS
+PLANET ZOO: ASIA ANIMAL PACK
 PLANETBASE
 PLANETINTERACTIVE
 PLANETINTERACTIVEDEVELOPMENT
@@ -42746,6 +42838,7 @@ POLAR
 POLAR BEAR
 POLAR BEAR SPAWN
 POLAR BEAR SPAWN EGG
+POLAR SHIFT
 POLARBEAR
 POLARBEARSPAWN
 POLARBEARSPAWNEGG
@@ -43796,6 +43889,8 @@ Patch
 Path
 Path of the Abyss
 PathSketch
+Pathless Maze TD
+PathlessMazeTD
 PathoftheAbyss
 Patient 001
 Patient001
@@ -44358,12 +44453,14 @@ Planet Interactive Development
 Planet Moon
 Planet Nemo
 Planet Nemo Productions
+Planet Zoo: Asia Animal Pack
 PlanetFinder
 PlanetInteractive
 PlanetInteractiveDevelopment
 PlanetMoon
 PlanetNemo
 PlanetNemoProductions
+PlanetZoo:AsiaAnimalPack
 Planetbase
 Planets
 Planning
@@ -44602,9 +44699,11 @@ Polar
 Polar Bear
 Polar Bear Spawn
 Polar Bear Spawn Egg
+Polar Shift
 PolarBear
 PolarBearSpawn
 PolarBearSpawnEgg
+PolarShift
 Polaris
 Polarware
 Pole
@@ -45783,6 +45882,7 @@ RATTLY LE SERPENT A SONNETTE
 RATTLY LE SERPENT À SONNETTE
 RATTLYLESERPENTASONNETTE
 RATTLYLESERPENTÀSONNETTE
+RATTUS VELOCITAS
 RAUL
 RAUL PASSOS
 RAULPASSOS
@@ -46200,6 +46300,7 @@ REVALI
 REVATECHNOLOGIES
 REVATECHNOLOGIESPTY
 REVE
+REVENANT: THROUGH THE VEIL
 REVENGE
 REVENGE OF THE SAVAGE PLANET
 REVERB
@@ -47052,6 +47153,8 @@ Rattly le serpent a sonnette
 Rattly le serpent à sonnette
 Rattlyleserpentasonnette
 Rattlyleserpentàsonnette
+Rattus Velocitas
+RattusVelocitas
 Raul
 Raul Passos
 RaulPassos
@@ -47460,6 +47563,8 @@ Reva Technologies Pty
 RevaTechnologies
 RevaTechnologiesPty
 Revali
+Revenant: Through The Veil
+Revenant:ThroughTheVeil
 Revenge
 Revenge of the Savage Planet
 RevengeoftheSavagePlanet
@@ -51111,6 +51216,7 @@ SWEET AGE
 SWEET BERRIES
 SWEET DISCO
 SWEET DUNGEON
+SWEET GIRLS COLLECTION
 SWEET ROCK PAPER SCISSORS
 SWEET ROOMMATE
 SWEET THEME PARK
@@ -54062,6 +54168,7 @@ Sweet Age
 Sweet Berries
 Sweet Disco
 Sweet Dungeon
+Sweet Girls Collection
 Sweet Rock Paper Scissors
 Sweet Roommate
 Sweet Theme Park
@@ -54070,6 +54177,7 @@ SweetAge
 SweetBerries
 SweetDisco
 SweetDungeon
+SweetGirlsCollection
 SweetRockPaperScissors
 SweetRoommate
 SweetThemePark
@@ -54998,6 +55106,7 @@ THE LEGEND OF ZELDA: MAJORA'S MASK
 THE LEGEND OF ZELDA: MAJORAS MASK
 THE LEGEND OF ZELDA: OCARINA OF TIME
 THE LEGEND OF ZELDA: THE WIND WAKER
+THE LEGEND RETURNS
 THE LEGENDS OF MAUI
 THE LIFE AND SUFFERING OF SIR BRANTE
 THE LIGHTNING STRUCK ORPHAN
@@ -55048,6 +55157,7 @@ THE REWINDER 2
 THE RITUAL
 THE RIVER
 THE ROOM STALKER
+THE RPG: MY FIRST DUNGEON SMELLS
 THE SALES
 THE SALES CURVE
 THE SANDS OF TIME
@@ -57117,6 +57227,7 @@ The Last Reunion
 The Last Visit: 98th
 The Learning
 The Learning Company
+The Legend Returns
 The Legend of Bubble Boy
 The Legend of Zelda
 The Legends of Maui
@@ -57161,6 +57272,7 @@ The Precinct Soundtrack
 The Presidential Assassins Demo
 The Punisher
 The Quest for Colour
+The RPG: My First Dungeon Smells
 The Ranch of Rivershine
 The Red Shift
 The Rescue of Mermaids
@@ -57342,6 +57454,7 @@ TheLastReunion
 TheLastVisit:98th
 TheLearning
 TheLearningCompany
+TheLegendReturns
 TheLegendofBubbleBoy
 TheLegendofZelda
 TheLegendsofMaui
@@ -57384,6 +57497,7 @@ ThePrecinctSoundtrack
 ThePresidentialAssassinsDemo
 ThePunisher
 TheQuestforColour
+TheRPG:MyFirstDungeonSmells
 TheRanchofRivershine
 TheRedShift
 TheRescueofMermaids
@@ -58591,6 +58705,7 @@ ULTRASOFTWARE
 ULTRASOFTWARECORPORATION
 ULTRAVISION
 ULVOXX
+UMAMUSUME: PRETTY DERBY
 UMARO
 UMBRELLA
 UMBRELLA CORPORATION
@@ -58848,6 +58963,8 @@ UltraSoftware
 UltraSoftwareCorporation
 Ultravision
 Ulvoxx
+Umamusume: Pretty Derby
+Umamusume:PrettyDerby
 Umaro
 Umbrella
 Umbrella Corporation
@@ -58989,8 +59106,10 @@ Utopia Technologies Inc
 UtopiaTechnologies
 UtopiaTechnologiesInc
 V
+V LOVER!
 V RISING
 V Rising
+V-LOVER!
 V-RALLY
 V-Rally
 V1
@@ -60299,6 +60418,7 @@ WARNERBROSINTERACTIVE
 WARNERBROSINTERACTIVEENTERTA
 WARNERBROSMONTREAL
 WARNERINTERACTIVE
+WARNING
 WAROS
 WARP
 WARP FACTORY
@@ -61036,6 +61156,7 @@ WarnerBrosInteractive
 WarnerBrosInteractiveEnterta
 WarnerBrosMontréal
 WarnerInteractive
+Warning
 Warp
 Warp Factory
 Warp The
@@ -62438,6 +62559,7 @@ ZOMBIE OUTBREAK 1942
 ZOMBIE PIGMAN
 ZOMBIE PIGMAN SPAWN
 ZOMBIE PIGMAN SPAWN EGG
+ZOMBIE ROLLERZ: THE LAST SHIP
 ZOMBIE SPAWN
 ZOMBIE SPAWN EGG
 ZOMBIE STUDIOS
@@ -62711,6 +62833,7 @@ Zombie Outbreak 1942
 Zombie Pigman
 Zombie Pigman Spawn
 Zombie Pigman Spawn Egg
+Zombie Rollerz: The Last Ship
 Zombie Spawn
 Zombie Spawn Egg
 Zombie Studios
@@ -62728,6 +62851,7 @@ ZombieOutbreak1942
 ZombiePigman
 ZombiePigmanSpawn
 ZombiePigmanSpawnEgg
+ZombieRollerz:TheLastShip
 ZombieSpawn
 ZombieSpawnEgg
 ZombieStudios
@@ -63121,6 +63245,7 @@ aeonflame
 aeria
 aeria games
 aeriagames
+aerial aces
 aerie
 aeris
 aeris gainsborough
@@ -63607,6 +63732,7 @@ amigacorporation
 amigo
 amir
 amiral
+ammo garden
 amn
 amnesty
 amnesty international
@@ -64089,6 +64215,7 @@ armorattack
 armored
 armored core
 armored core™ vi fires of rubicon™
+armored warfare - summer bundle
 armored warriors
 armoredcore
 armoredwarriors
@@ -64441,6 +64568,7 @@ atreidconcept
 atreidconceptsa
 attack
 attack on inirea
+attack on steel
 attack throw
 attackthrow
 attorney
@@ -66580,6 +66708,7 @@ burden of the blue
 bureau
 burger
 burger time
+burger witch
 burgertime
 burgred
 burgred burgred
@@ -67623,6 +67752,7 @@ christopher thorndyke
 christopherdiremo
 christopherthorndyke
 chrom
+chroma blasters
 chronicles
 chronicles of riddick
 chronicles of riddick: escape from butcher bay
@@ -68197,6 +68327,7 @@ cookie
 cooking
 cooking mama
 cooking mama limited
+cooking with magic
 cookingmama
 cookingmamalimited
 cool
@@ -69099,6 +69230,7 @@ dark gaïa
 dark globox
 dark kahn
 dark malgus
+dark mine
 dark oak
 dark oak boat
 dark oak door
@@ -70527,6 +70659,7 @@ dukeedmund
 dukenukem
 dukenukem3d
 dumb
+dumb af
 dumb drum
 dumb ways to
 dumb ways to die
@@ -71655,6 +71788,7 @@ exit - n.f.
 exit together
 exkee
 exo digger
+exo-calibre soundtrack
 exocolony: planet survival
 exopal
 exor
@@ -72379,6 +72513,7 @@ flowloop
 flowloop&
 floyd
 fluXis
+fluffy memories
 fluffyinn demo
 fluffylogic
 fluid
@@ -73793,6 +73928,7 @@ goldfish
 goldingot
 goldnugget
 golf
+golgalian
 gomar
 gomar  shioh
 gomar & shioh
@@ -74110,6 +74246,7 @@ grigoriigrigorii
 grigsby
 grim
 grim fandango
+grim-chan's soul fight
 grimes
 grimfandango
 grimoire
@@ -74373,6 +74510,7 @@ génésisrhapsodos
 gérard
 h
 h.
+h.a.d.e.s zero
 h.a.n.d
 h.e.r.o
 h2o
@@ -74836,6 +74974,7 @@ helix
 helixe
 hell
 hell and back
+hell let loose - operation overlord units
 helldivers™ 2
 hello
 hello games
@@ -75282,6 +75421,7 @@ houseofthedead
 houseofthedead2
 houseofthedeadthe
 houses
+how 2 escape: lost submarine
 howard
 hq
 hrothgar
@@ -75489,6 +75629,7 @@ icd
 ice
 ice climber
 ice climbers
+ice cream typer
 iceberg
 iceberg interactive
 iceberginteractive
@@ -76094,6 +76235,7 @@ iron pickaxe
 iron shovel
 iron soldier
 iron sword
+iron tangle breakout
 ironaxe
 ironboots
 ironbyte
@@ -77073,6 +77215,7 @@ kasugano
 kat
 katamari
 katamari damacy
+katamari damacy reroll
 katamari damacy we love katamari
 katamari damacy, we love katamari
 katamaridamacy
@@ -77751,6 +77894,7 @@ kunglao
 kunimitsu
 kunio-kun
 kuniokun
+kunoichi keiko: the lust village
 kure
 kurow
 kurow kirishima
@@ -77923,6 +78067,7 @@ la mini voiture
 la princesse fee banane
 la princesse fée banane
 la reine oiseau banane
+la salamanca
 la sirene
 la sirène
 la tour des ombres
@@ -78813,6 +78958,7 @@ limei
 limelight
 limelight software
 limelightsoftware
+liminal shift
 limited
 limpitoyable
 lin
@@ -79547,6 +79693,7 @@ mahjong expedition
 mahjong house: challenge all achievements
 mai
 maid for my master
+maiden
 maiden and lord-dlc-lafayette special-body movement
 maiden demo
 maiev
@@ -79756,6 +79903,7 @@ marcusahrens&holger
 marcusahrens&holgerschmi
 marduk
 marechal
+maredare
 maret
 margaux
 maria
@@ -81828,6 +81976,7 @@ nancy-mi847j
 nancymi847j
 nanjo
 nanning
+nanomon virtual pet
 naoe
 naomie
 naoplay
@@ -82255,6 +82404,7 @@ night
 night grip
 night market simulator
 night of the stars
+night shift
 night swarm demo
 night terror
 night trap
@@ -82696,6 +82846,7 @@ objetsdiversetdecoratifs
 objetsdiversetdécoratifs
 oblivion
 obrieski
+observer protocol: the station - first shift
 obsidian
 obsidian entertainment
 obsidianentertainment
@@ -83234,6 +83385,7 @@ onceupona
 onceuponatime
 one
 one day at a time
+one last toast
 one man´s trash demo
 one of the many
 one piece
@@ -83896,6 +84048,7 @@ patavert
 patch
 path
 path of the abyss
+pathless maze td
 pathsketch
 patient 001
 patra
@@ -84527,6 +84680,7 @@ planet interactive development
 planet moon
 planet nemo
 planet nemo productions
+planet zoo: asia animal pack
 planetbase
 planetinteractive
 planetinteractivedevelopment
@@ -84779,6 +84933,7 @@ polar
 polar bear
 polar bear spawn
 polar bear spawn egg
+polar shift
 polarbear
 polarbearspawn
 polarbearspawnegg
@@ -85841,6 +85996,7 @@ rattly le serpent a sonnette
 rattly le serpent à sonnette
 rattlyleserpentasonnette
 rattlyleserpentàsonnette
+rattus velocitas
 raul
 raul passos
 raulpassos
@@ -86250,6 +86406,7 @@ revali
 revatechnologies
 revatechnologiespty
 reve
+revenant: through the veil
 revenge
 revenge of the savage planet
 reverb
@@ -89796,6 +89953,7 @@ sweet age
 sweet berries
 sweet disco
 sweet dungeon
+sweet girls collection
 sweet rock paper scissors
 sweet roommate
 sweet theme park
@@ -90707,6 +90865,7 @@ the legend of zelda: majora's mask
 the legend of zelda: majoras mask
 the legend of zelda: ocarina of time
 the legend of zelda: the wind waker
+the legend returns
 the legends of maui
 the life and suffering of sir brante
 the lightning struck orphan
@@ -90757,6 +90916,7 @@ the rewinder 2
 the ritual
 the river
 the room stalker
+the rpg: my first dungeon smells
 the sales
 the sales curve
 the sands of time
@@ -92191,6 +92351,7 @@ ultrasoftware
 ultrasoftwarecorporation
 ultravision
 ulvoxx
+umamusume: pretty derby
 umaro
 umbrella
 umbrella corporation
@@ -92345,6 +92506,7 @@ utvignition
 utvignitiongames
 v
 v rising
+v-lover!
 v-rally
 v1
 v2
@@ -93102,6 +93264,7 @@ warnerbrosinteractiveenterta
 warnerbrosmontreal
 warnerbrosmontréal
 warnerinteractive
+warning
 waros
 warp
 warp factory
@@ -94173,6 +94336,7 @@ zombie outbreak 1942
 zombie pigman
 zombie pigman spawn
 zombie pigman spawn egg
+zombie rollerz: the last ship
 zombie spawn
 zombie spawn egg
 zombie studios
